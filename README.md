@@ -1,4 +1,1 @@
-# hello-world
-Just started a new repository
-Hi, I am himel
-I like Qiskit. 
+This repository contains several machine learning model projects and data analysis.
